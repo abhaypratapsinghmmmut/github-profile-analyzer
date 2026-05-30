@@ -15,7 +15,7 @@ A backend service that analyzes GitHub profiles using the GitHub API and stores 
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/abhaypratapsinghmmmut/github-profile-analyzer.git
 cd github-profile-analyzer
 ```
 
